@@ -1,3 +1,7 @@
 {
-  "compilerOptions": { "experimentalDecorators": true, "esModuleInterop": true }
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    "esModuleInterop": true,
+    "composite": true
+  },
 }
